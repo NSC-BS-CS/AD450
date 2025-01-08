@@ -6,7 +6,7 @@ To fill out this PR template please replace any values that are capital letters 
 
 **Initial Submission Completed:** [DATE]
 
-**Initial Submission Branch:** [DATE] (This is the branch that will be graded for the intitial submission in the rubric)
+**Initial Submission Branch:** [LINK_TO_BRANCH] (This is the branch that will be graded for the intitial submission in the rubric)
 
 **Final Submission Completed:** [DATE]
 
