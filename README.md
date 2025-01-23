@@ -65,3 +65,4 @@ IMPORTANT: When using VScode, you must save regularly in order to see changes! I
 There is a way to set up VSCode to autoformat using Black when you save. You are free to explore that if you wish. For now, the given instructions are around using the command line manually. 
 I strongly suggest (because I cannot monitor this reasonably), that you use Flake8 to see what needs to be changed and understand what the rules are for standardized good Python coding and then use Black to autoformat manually. The most important part is using Flake8 to understand so that eventually, you are coding up to standard.
 
+This is a secret text added for git reasons.
